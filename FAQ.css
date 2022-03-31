@@ -105,7 +105,7 @@ body {
 @media (max-width: 700px) {
   .wrapper {
     width: 300px;
-    height: 530px;
+    height: 600px;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 100 1fr;
